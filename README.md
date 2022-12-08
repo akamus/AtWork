@@ -1,30 +1,33 @@
-### Projetos que trabalhei / trabalho
+# Projetos que trabalhei / trabalho
+<a name="menu"></a>
+- [ Sistema de Monitoramento de recursos hídricos](#monitorar)
+- [Sistema de Leitura Individualizada de Água](#medir)
+- [Sistema de Gestão de Eventos Corporativos](#eventos)
+- [Sistema de Agendamento Eletrônico](#agendamento)
+- [Sistema de Processo Eletrônico](#processo)
+- [Serviços](#servicos)
+  - Envio de E-mail
+  - Emissão de relatórios
+  - "Corretor" de arquivos de texto
 
-- Sistema de Monitoramento de rios
-- Sistema de Leitura Individualizada de Água
-- Sistema de Gestão de Eventos Corporativos
-- Sistema de Agendamento Eletrônico
-- Sistema de Processo Eletrônico
-- Microsserviços
-- Envio de E-mail
-- Emissão de relatórios
-- "Corretor" de arquivos de texto
 
-
-#### Projetos
+## Projetos
 - **Descrição** : Considerando que são projetos "particulares", venho expor de forma breve as estruturas de projeto e as atividades que atuei. 
 
-##### Sistema de Monitoramento de recursos hídricos
+
+<a id="monitorar"></a>
+##### Sistema de Monitoramento de recursos hídricos  [menu](#menu)
 
  - **Descrição** : Sistema desenvolvido para trabalho de conclusão de curso -  Bacharelado em Ciência da Computação
 - **Problema** : Monitorar reservatório de água, obtendo informações relevantes como níveis da água, de impureza e de condutividade     ([Arquivo em PDF](https://www.univale.br/wp-content/uploads/2019/07/Sistema-de-monitoramento-de-recursos-h%C3%ADdricos.pdf))
 - **Função** : atuei na definição do projeto, documentação, visualização de dados e apresentação do sistema.
 - **Time** : 2 pessoas
 
-![monitoramento.PNG](./img\monitoramento.PNG)
+![monitoramento.PNG](./img/monitoramento.PNG)
 
  
-## Sistema de Leitura Individualizada de Água
+<a id="medir"></a> 
+## Sistema de Leitura Individualizada de Água [menu](#menu)
 
  - **Descrição** : Sistema desenvolvido para trabalho de conclusão de curso -  Bacharelado em Ciência da Computação.
 - **Problema** : Obter leitura individualizada de água por hidrômetro em condomínios, tratando e cuidando dos dados para futura utilização.
@@ -32,23 +35,24 @@
 - **Time**: 2 pessoas
 
 
-![medir-individual.PNG](./img\medir-individual.PNG "medir-individual.PNG")
+![medir-individual.PNG](./img/medir-individual.PNG "medir-individual.PNG")
 
 
-## Sistema de Gestão de Eventos Corporativos
+<a id="eventos"></a>
+## Sistema de Gestão de Eventos Corporativos  [menu](#menu)
 
 - **Descrição** : Sistema integrado para Gestão de eventos.
 - **Problema** : Capturar e gerir dados de participantes de eventos corporativos, cuidando da divulgação digital, inscrição e emissão de certificados de participação..
 - **Função** : atuei na definição do projeto, documentação e desenvolvimento de todos os módulos.
 - **Time** : 1 pessoa
 
-![eventos.PNG](./img\eventos.PNG)
+![eventos.PNG](./img/eventos.PNG)
 
 
 
 
-
-## Sistema de Agendamento Eletrônico
+<a id="agendamento"></a>
+## Sistema de Agendamento Eletrônico [menu](#menu)
 
 - **Descrição** : Sistema de Agendamento Eletrônico
 - **Problema** 
@@ -67,11 +71,12 @@
 - **Demais versões - Time** : 1 pessoa
 
 
-![Sistema de Agendamentos](./img\agendamentos.PNG)
+![Sistema de Agendamentos](./img/agendamentos.PNG)
 
 
 
-## Sistema de Processo Eletrônico
+<a id="processo"></a>
+## Sistema de Processo Eletrônico [menu](#menu)
 
 - **Descrição** : Sistema de Processo Eletrônico
 - **Problema** 
@@ -88,19 +93,19 @@
 
 - **Demais versões - Time** : 1 pessoa
 
-![Sistema de Processos](./img\processos.PNG)
+![Sistema de Processos](./img/processos.PNG)
 
 
 
 
 
-
-## Serviços
+<a id="servicos"></a>
+## Serviços [menu](#menu)
 
 **Descrição** 
 - Módulos desenvolvidos isoladamente para facilitar integração com outros sistemas e manutenção, considerando apenas uma pessoa para desenvolver e dar manutenção.
 
-![Serviços](./img\servicos.PNG)
+![Serviços](./img/servicos.PNG)
 
 ### Envio de E-mail
 - **Descrição** : Serviço para envio de e-mail
