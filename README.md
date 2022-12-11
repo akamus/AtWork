@@ -18,7 +18,7 @@
 <a id="monitorar"></a>
 ## Sistema de Monitoramento de recursos hídricos  [menu](#menu)
 
- - **Descrição** : Sistema desenvolvido para trabalho de conclusão de curso -  Bacharelado em Ciência da Computação
+ - **Descrição** : Sistema desenvolvido para trabalho de conclusão de curso -  Bacharelado em Ciência da Computação (2012)
 - **Problema** : Monitorar reservatório de água, obtendo informações relevantes como níveis da água, de impureza e de condutividade     ([Arquivo em PDF](https://www.univale.br/wp-content/uploads/2019/07/Sistema-de-monitoramento-de-recursos-h%C3%ADdricos.pdf))
 - **Função** : atuei na definição do projeto, documentação, visualização de dados e apresentação do sistema.
 - **Time** : 2 pessoas
@@ -29,7 +29,7 @@
 <a id="medir"></a> 
 ## Sistema de Leitura Individualizada de Água [menu](#menu)
 
- - **Descrição** : Sistema desenvolvido para trabalho de conclusão de curso -  Bacharelado em Ciência da Computação.
+ - **Descrição** : Sistema para realizar leitura individualizada de consumo de água.
 - **Problema** : Obter leitura individualizada de água por hidrômetro em condomínios, tratando e cuidando dos dados para futura utilização.
 - **Função** : atuei na definição do projeto, documentação, desenvolvedor dos módulos dashboard Web e aplicativo para Android.
 - **Time**: 2 pessoas
